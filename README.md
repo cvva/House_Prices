@@ -1,4 +1,4 @@
-# 🏠 Ames House Prices — Advanced Regression Techniques
+# 🏠 House Prices — Advanced Regression Techniques
 
 Este proyecto tiene como objetivo desarrollar un pipeline de Machine Learning de alto rendimiento para predecir el precio final de venta (`SalePrice`) de las viviendas residenciales en Ames, Iowa (2006–2010), basándose en 79 características explicativas.
 
