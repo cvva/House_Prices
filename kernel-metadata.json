@@ -1,0 +1,15 @@
+{
+  "id": "cvelizdevilla/house-prices-pca-ensemble",
+  "title": "House Prices - PCA Ensemble Pipeline",
+  "code_file": "pca_houses_prices_kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": ["house-prices-advanced-regression-techniques"],
+  "kernel_sources": [],
+  "model_sources": []
+}
